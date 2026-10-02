@@ -45,7 +45,7 @@ Rayleigh–Bénard 対流などの熱対流系や内円筒回転のみの Taylor
 ### LaTeX
 
 - [`report_template_LaTeX`](https://github.com/matsukawa-group/report_template_LaTeX)
-  - レポート・研究資料用（参考文献の体裁と `bib` ファイルは Typst 版と共通）
+  - レポート・研究資料用
   - [LaTeX の使用方法マニュアル](https://github.com/matsukawa-group/report_template_LaTeX/blob/main/template-manual/template-manual.pdf) 付き
 
 ## 🔰 研究の始め方
@@ -53,9 +53,9 @@ Rayleigh–Bénard 対流などの熱対流系や内円筒回転のみの Taylor
 研究室に配属された学生向けの資料です．
 
 - [`lab-startup`](https://github.com/matsukawa-group/lab-startup)
-  - 研究室に配属された学生が最初に読む項目．研究ツールや環境構築について記載．
+  - 【未完成】研究室に配属された学生が最初に読む項目．研究ツールや環境構築について記載．
 - [`GitHub_tutorial`](https://github.com/matsukawa-group/GitHub_tutorial)
-  - 研究室に新しく配属された学生向けの Git/GitHub チュートリアル．
+  - 【未完成】研究室に新しく配属された学生向けの Git/GitHub チュートリアル．
 
 ---
 
